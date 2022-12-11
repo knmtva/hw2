@@ -86,14 +86,3 @@ vivi = Villian(name="L", nickname="Lll", superpower="cloaning", health_points=10
 print(vivi)
 vivi.gen_x()
 vivi.crit(good.damage)
-
-
-
-
-
-
-
-
-
-
-
